@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.vacxpass_front">
    <application
-        android:label="vacxpass_front"
+        android:label="VacXpass"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
